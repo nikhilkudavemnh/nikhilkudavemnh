@@ -13,10 +13,10 @@ Building intelligent systems with strong engineering foundations.
   <img src="https://img.shields.io/badge/AWS-Cloud_Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/nikhil-kudave-62aa7b113">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/nikhilkudavemnh">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github" />
 </a>
 
@@ -118,11 +118,11 @@ Building incremental data processing pipelines and responsive analytics dashboar
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhilkudavemnh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkudavemnh&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="95%" src="https://streak-stats.demolab.com?user=nikhilkudavemnh&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -132,7 +132,7 @@ Building incremental data processing pipelines and responsive analytics dashboar
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nikhilkudavemnh/nikhilkudavemnh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/nikhilkudavemnh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
