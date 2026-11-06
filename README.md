@@ -132,7 +132,7 @@ Building incremental data processing pipelines and responsive analytics dashboar
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nikhilkudavemnh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/nikhilkudavemnh/nikhilkudavemnh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
