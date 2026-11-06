@@ -132,7 +132,7 @@ Building incremental data processing pipelines and responsive analytics dashboar
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/nikhilkudavemnh/nikhilkudavemnh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -143,10 +143,10 @@ Building incremental data processing pipelines and responsive analytics dashboar
 I'm interested in connecting with engineers, AI practitioners and developers working on real-world AI systems.
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/nikhil-kudave-62aa7b113">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/nikhilkudavemnh">
 <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github" />
 </a>
 </p>
